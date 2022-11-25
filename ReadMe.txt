@@ -2,7 +2,10 @@ https://github.com/okovtun/BD_212.git
 https://www.youtube.com/watch?v=ZJbKZvQWSYE&list=PLeqyOOqxeiINMS3J8UDR0sWefK7Y0uEiH
 
 TODO:
-Выучить теорию!
+1. Выучить теорию!
+2. Вывести в окно консоли стишок "В лесу родилась Ёлочка".
+   Стишок должен быть выровнен по середине окна консоли, 
+   и его куплеты должны быть разделены пустой строкой.
 
 DONE:
 1. Скачать программу AnyDesk: https://anydesk.com/en;
