@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=ZJbKZvQWSYE&list=PLeqyOOqxeiINMS3J8UDR0sWefK7Y0u
 
 TODO:
 Выучить теорию!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+http://www.softelectro.ru/ieee754_en.html
+http://www.softelectro.ru/teoriy.html
 
 DONE:
 1. Выучить теорию!
