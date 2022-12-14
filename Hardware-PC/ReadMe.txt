@@ -7,7 +7,7 @@ https://www.ixbt.com/cpu/cpu-digest-2009.shtml
 https://www.intel.co.uk/content/www/uk/en/support/articles/000024255/processors.html?wapkw=warranty%20oem
 
 TODO:
-»спользу€ программу CPU-Z определить дополнительные наботры команд своего CPU.
+»спользу€ программу CPU-Z определить дополнительные наборы команд своего CPU.
 
 https://cyberpedia.su/13x178f.html
 https://ru.bmstu.wiki/FPU_(Floating_Point_Unit)
