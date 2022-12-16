@@ -2,6 +2,9 @@
 using namespace std;
 
 //#define LOGICAL_TYPES
+//#define DATA_TYPES
+//#define DECLARATION_AND_INITIALISATION
+//#define COFFEE
 
 void main()
 {
@@ -14,6 +17,7 @@ void main()
 	//bit - Binary Digit (ƒвоична€ цифра) 0 или 1
 #endif
 
+#ifdef DATA_TYPES
 	cout << "long long:\n";
 	cout << sizeof(long long) << endl;
 	cout << "  signed long long:" << LLONG_MIN << " ... " << LLONG_MAX << endl;
@@ -28,4 +32,49 @@ void main()
 	cout << "double:\n";
 	cout << sizeof(double) << endl;
 	cout << DBL_MIN << " ... " << DBL_MAX << endl;
+#endif // DATA_TYPES
+
+#ifdef DECLARATION_AND_INITIALISATION
+	//				type name;
+//identifier - это им€
+
+	int _1stPlace;
+	//int namespace;	//expected an identifier
+
+	int a;
+	int t;
+	double price_of_coffee;	//snake_case_style
+	//int PascalCaseStyle;
+	//int CamelCaseStyle;
+	//int BigCamel;
+	//int smallCamel;
+	cout << price_of_coffee << endl;
+	//проинициализировать
+	//инициализаци€ - это присвоение начального значени€.
+	int a;		//объ€вление переменной без инициализации
+	int b = 0;	//инициализаци€ переменной при объ€влении
+	int c;
+	c = 0;		//инициализаци€ переменной после объ€влени€, при помощи присвоени€.
+	int d;
+	cout << "¬ведие число: "; cin >> d;	//инициализаци€ вводом с клавиатуры  
+#endif // DECLARATION_AND_INITIALISATION
+
+#ifdef COFFEE
+	double price_of_coffe;
+	int number_of_cups;
+	cout << "¬ведите стоимость кофе: "; cin >> price_of_coffe;
+	cout << "¬ведите количество чашек: "; cin >> number_of_cups;
+	double total_price = price_of_coffe * number_of_cups;
+	cout << "ќбща€ стоимость: " << total_price << endl;
+#endif // COFFEE
+
 }
+
+/*
+---------------------------------
+1. ABC....Zabc...z0123...9_;
+2. »м€ переменной Ќ≈ может начинатьс€ символом цифры
+3. »мена переменных регистрозависимы;
+4. ƒл€ именовани€ переменных низ€ использовать ключевые слова €зыка C++;
+---------------------------------
+*/
