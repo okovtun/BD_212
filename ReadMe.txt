@@ -2,6 +2,9 @@ https://github.com/okovtun/BD_212.git
 https://www.youtube.com/watch?v=ZJbKZvQWSYE&list=PLeqyOOqxeiINMS3J8UDR0sWefK7Y0uEiH
 
 TODO:
+Решить все задачи из файла: https://github.com/okovtun/BD_212/blob/master/DataTypes/VariablesTask.pdf
+
+DONE:
 Выучить теорию!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 http://www.softelectro.ru/ieee754_en.html
 http://www.softelectro.ru/teoriy.html

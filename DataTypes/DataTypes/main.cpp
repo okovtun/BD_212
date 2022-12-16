@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+using std::cin;
+using std::cout;
+using std::endl;
 
 //#define LOGICAL_TYPES
 //#define DATA_TYPES
@@ -68,6 +71,21 @@ void main()
 	cout << "Общая стоимость: " << total_price << endl;
 #endif // COFFEE
 
+	int speed = 0;
+	const int MAX_SPEED = 250;	//КОНСТАНТЫ ВСЕГДА ИМЕНУЮТСЯ ЗАГЛАВНЫМИ БУКВАМИ
+	//Литералы - это элементы кода, которые вопринимаются "как есть".
+	cout << .5 << endl;	
+	cout << sizeof(.5) << endl;
+	cout << typeid(.5).name() << endl;
+	//5 - это числовая константа типа 'int'
+	//5. - это числовая константа типа 'double'
+	//.5 - это числовая константа типа 'double'
+	//.5f - это числовая константа типа 'float'
+	//.5ULL - это числовая константа типа 'unsigned long long'
+	//https://legacy.cplusplus.com/doc/tutorial/constants/
+
+	cout << sizeof('+') << endl;
+	cout << sizeof("+") << endl;
 }
 
 /*
