@@ -2,6 +2,9 @@ https://github.com/okovtun/BD_212.git
 https://www.youtube.com/watch?v=ZJbKZvQWSYE&list=PLeqyOOqxeiINMS3J8UDR0sWefK7Y0uEiH
 
 CPU:
+https://www.chipdip.ru/info/import-ic-packages
+https://www.youtube.com/watch?v=mRAnzlUJvcI&ab_channel=%D0%9C%D0%BE%D0%B9%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80
+----------------------------------------------------------
 https://www.cpuid.com/
 https://www.ixbt.com/cpu/x86-cpu-faq-2006.shtml
 https://www.ixbt.com/cpu/cpu-digest-2009.shtml
